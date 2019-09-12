@@ -94,6 +94,6 @@ resource "azurerm_virtual_machine" "vm" {
 		disable_password_authentication = false
 	}
 	tags = {
-		environment = "teste"
+		environment = "NacAlmir"
 	}
 }
